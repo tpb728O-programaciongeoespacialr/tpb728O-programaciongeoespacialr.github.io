@@ -1,0 +1,36 @@
+---
+title: "TPB728O Programación de aplicaciones geoespaciales en R"
+author: 
+- name: Manuel Vargas
+  url: https://github.com/mfvargas
+  affiliation: Maestría en Sistemas de Información Geográfica y Teledetección.
+  affiliation_url: http://www.geo.una.ac.cr/index.php/oferta-academica/mpsigte
+description: |
+  Curso TPB728O Programación de aplicaciones geoespaciales en R. Maestría en Sistemas de Información Geográfica y Teledetección. Universidad de Costa Rica (UCR) y Universidad Nacional (UNA).
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+# Descripción
+Este es un curso sobre desarrollo de aplicaciones geoespaciales en el lenguaje de programación [R](https://www.r-project.org/). Forma parte de la [Maestría en Sistemas de Información Geográfica y Teledetección](http://www.geo.una.ac.cr/index.php/oferta-academica/mpsigte) de la [Universidad de Costa Rica (UCR)](https://www.ucr.ac.cr/) y de la [Universidad Nacional (UNA)](https://www.una.ac.cr/).
+
+Se estudian los fundamentos del lenguaje R, sus bibliotecas   geoespaciales   y   sus   capacidades   para   generar   gráficos estadísticos. El enfoque del curso es teórico-práctico, con lecciones teóricas combinadas con ejercicios de programación en los cuales los estudiantes aplicarán en diversos escenarios de procesamiento de datos los conocimientos adquiridos.
+
+# Versión más reciente
+* [Segundo ciclo lectivo 2021 (en desarrollo)](https://tpb728O-programaciongeoespacialr.github.io/2021ii/)
+
+# Otros cursos
+* [GF0604 Procesamiento de datos geográficos (Escuela de Geografía de la Universidad de Costa Rica)](https://gf0604-procesamientodatosgeograficos.github.io/)
+* [PF0953 Programación geoespacial en R (Maestría Académica en Gestión Integrada del Recurso Hídrico)](https://pf0953-programaciongeoespacialr-2020.github.io/)
+* [TPB708 Programación de aplicaciones en sistemas de información geográfica (Maestría en Sistemas de información Geográfica y Teledetección)](https://github.com/tpb708-programacionsig-2020)
+* [TPB729 Desarrollo de sistemas de información geográfica en la Web (Maestría en Sistemas de información Geográfica y Teledetección)](https://tpb729-desarrollosigweb-2021.github.io/)

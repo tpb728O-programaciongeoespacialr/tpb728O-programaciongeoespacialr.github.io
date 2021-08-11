@@ -1,0 +1,26 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-08-11T00:15:54-06:00"
+    },
+    {
+      "path": "index.html",
+      "title": "TPB728O Programación de aplicaciones geoespaciales en R",
+      "description": "Curso TPB728O Programación de aplicaciones geoespaciales en R. Maestría en Sistemas de Información Geográfica y Teledetección. Universidad de Costa Rica (UCR) y Universidad Nacional (UNA).\n",
+      "author": [
+        {
+          "name": "Manuel Vargas",
+          "url": "https://github.com/mfvargas"
+        }
+      ],
+      "contents": "\r\n\r\nContents\r\nDescripción\r\nVersión más reciente\r\nOtros cursos\r\n\r\nDescripción\r\nEste es un curso sobre desarrollo de aplicaciones geoespaciales en el lenguaje de programación R. Forma parte de la Maestría en Sistemas de Información Geográfica y Teledetección de la Universidad de Costa Rica (UCR) y de la Universidad Nacional (UNA).\r\nSe estudian los fundamentos del lenguaje R, sus bibliotecas geoespaciales y sus capacidades para generar gráficos estadísticos. El enfoque del curso es teórico-práctico, con lecciones teóricas combinadas con ejercicios de programación en los cuales los estudiantes aplicarán en diversos escenarios de procesamiento de datos los conocimientos adquiridos.\r\nVersión más reciente\r\nSegundo ciclo lectivo 2021 (en desarrollo)\r\nOtros cursos\r\nGF0604 Procesamiento de datos geográficos (Escuela de Geografía de la Universidad de Costa Rica)\r\nPF0953 Programación geoespacial en R (Maestría Académica en Gestión Integrada del Recurso Hídrico)\r\nTPB708 Programación de aplicaciones en sistemas de información geográfica (Maestría en Sistemas de información Geográfica y Teledetección)\r\nTPB729 Desarrollo de sistemas de información geográfica en la Web (Maestría en Sistemas de información Geográfica y Teledetección)\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-08-11T00:24:28-06:00"
+    }
+  ],
+  "collections": []
+}
